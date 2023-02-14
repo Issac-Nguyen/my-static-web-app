@@ -26,6 +26,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.2",
     "axios": "^0.21.1",
+    "babel-eslint": "^10.1.0",
     "bulma": "^0.9.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -38,6 +39,9 @@
     "sass": "^1.56.1"
   },
   "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/eslint-parser": "^7.19.1",
+    "eslint": "^8.34.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.23.4",
